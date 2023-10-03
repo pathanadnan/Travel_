@@ -8,7 +8,8 @@
   Tourly is fully responsive travel website, <br />Responsive for all devices, built using in Front end HTML, CSS, and JavaScript. 
   In Backend i used Java, SpringBoot, SQL.
 
-  <a href="https://pathanadnan.github.io/Travel_/"><strong>➥ Live Demo</strong></a>
+ <!-- <a href="https://pathanadnan.github.io/Travel_/"><strong>➥ Live Demo</strong></a>
+ -->
 
 </div>
 
