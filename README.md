@@ -1,13 +1,14 @@
 # Travel_
 
-<img align="centre" src="[https://github.com/pathanadnan/Travel/assets/110882495/1aab629f-5d71-4a52-baa0-616781937f02](https://github.com/pathanadnan/Travel_/blob/main/combine.png?raw=true)" />
+<img align="centre" src="https://github.com/pathanadnan/Travel/assets/110882495/1aab629f-5d71-4a52-baa0-616781937f02"  />
 
 
   <h2 align="center">Travel - Travel website</h2>
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Tourly is fully responsive travel website, <br />Responsive for all devices, built using in Front end HTML, CSS, and JavaScript. 
+  In Backend i used Java, SpringBoot, SQL.
 
-  <a href="https://pathanadnan.github.io/Travel/"><strong>➥ Live Demo</strong></a>
+  <a href="https://pathanadnan.github.io/Travel_/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -16,7 +17,7 @@
 ### Demo Screeshots
 
 
-![Overview]([https://github.com/pathanadnan/Travel/assets/110882495/269efa80-cd3a-40bb-b844-52e760c08200](https://github.com/pathanadnan/Travel_/blob/main/combine.png?raw=true))
+![OverView](https://github.com/pathanadnan/Travel_/blob/main/combine.png?raw=true)
 
 ### Prerequisites
 
@@ -31,13 +32,13 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pathanadnan/Travel.git
+sudo git clone https://github.com/pathanadnan/Travel_.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pathanadnan/Travel.git
+git clone https://github.com/pathanadnan/Travel_.git
 ```
 
 ### Contact
