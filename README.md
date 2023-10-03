@@ -1,6 +1,6 @@
 # Travel_
 
-<img align="centre" src="https://github.com/pathanadnan/Travel/assets/110882495/1aab629f-5d71-4a52-baa0-616781937f02" />
+<img align="centre" src="[https://github.com/pathanadnan/Travel/assets/110882495/1aab629f-5d71-4a52-baa0-616781937f02](https://github.com/pathanadnan/Travel_/blob/main/combine.png?raw=true)" />
 
 
   <h2 align="center">Travel - Travel website</h2>
